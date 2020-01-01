@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eijoevakee.justjavac.com/sitemap.xml
